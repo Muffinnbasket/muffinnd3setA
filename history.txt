@@ -1,0 +1,75 @@
+    1  cd /c/
+    2  /c/users/evan
+    3  cd /c/users/evan
+    4  cd /c/users/evan/desktop
+    5  touch textfile.txt
+    6  vim textfile.txt
+    7  head -3 textfile.txt
+    8  tail -1 textfile.txt
+    9  tail -3 textfile.txt
+   10  mkdir git
+   11  cd git
+   12  clone 
+   13  Evan@DESKTOP-UOAOHL3 MINGW64 ~
+   14  $ cd /c/
+   15  Evan@DESKTOP-UOAOHL3 MINGW64 /c
+   16  $ /c/users/evan
+   17  bash: /c/users/evan: Is a directory
+   18  Evan@DESKTOP-UOAOHL3 MINGW64 /c
+   19  $ cd /c/users/evan
+   20  Evan@DESKTOP-UOAOHL3 MINGW64 /c/users/evan
+   21  $ cd /c/users/evan/desktop
+   22  Evan@DESKTOP-UOAOHL3 MINGW64 /c/users/evan/desktop
+   23  $ touch textfile.txt
+   24  Evan@DESKTOP-UOAOHL3 MINGW64 /c/users/evan/desktop
+   25  $ vim textfile.txt
+   26  Evan@DESKTOP-UOAOHL3 MINGW64 /c/users/evan/desktop
+   27  $ head -3 textfile.txt
+   28  thedfbv fdbgfsd ds grsveracser
+   29  ctrestcr
+   30  estc
+   31  Evan@DESKTOP-UOAOHL3 MINGW64 /c/users/evan/desktop
+   32  $ tail -1 textfile.txt
+   33  Evan@DESKTOP-UOAOHL3 MINGW64 /c/users/evan/desktop
+   34  $ tail -3 textfile.txt
+   35  ctre
+   36  sctr
+   37  Evan@DESKTOP-UOAOHL3 MINGW64 /c/users/evan/desktop
+   38  $ mkdir git
+   39  Evan@DESKTOP-UOAOHL3 MINGW64 /c/users/evan/desktop
+   40  $ cd git
+   41  Evan@DESKTOP-UOAOHL3 MINGW64 /c/users/evan/desktop/git
+   42  $ clone
+   43  cd /c/users/evan/desktop/git
+   44  clone 
+   45  Evan@DESKTOP-UOAOHL3 MINGW64 ~
+   46  $ cd /c/
+   47  Evan@DESKTOP-UOAOHL3 MINGW64 /c
+   48  $ /c/users/evan
+   49  bash: /c/users/evan: Is a directory
+   50  Evan@DESKTOP-UOAOHL3 MINGW64 /c
+   51  $ cd /c/users/evan
+   52  Evan@DESKTOP-UOAOHL3 MINGW64 /c/users/evan
+   53  $ cd /c/users/evan/desktop
+   54  Evan@DESKTOP-UOAOHL3 MINGW64 /c/users/evan/desktop
+   55  $ touch textfile.txt
+   56  Evan@DESKTOP-UOAOHL3 MINGW64 /c/users/evan/desktop
+   57  $ vim textfile.txt
+   58  Evan@DESKTOP-UOAOHL3 MINGW64 /c/users/evan/desktop
+   59  $ head -3 textfile.txt
+   60  thedfbv fdbgfsd ds grsveracser
+   61  ctrestcr
+   62  estc
+   63  Evan@DESKTOP-UOAOHL3 MINGW64 /c/users/evan/desktop
+   64  $ tail -1 textfile.txt
+   65  Evan@DESKTOP-UOAOHL3 MINGW64 /c/users/evan/desktop
+   66  $ tail -3 textfile.txt
+   67  ctre
+   68  sctr
+   69  Evan@DESKTOP-UOAOHL3 MINGW64 /c/users/evan/desktop
+   70  $ mkdir git
+   71  cd /c/users/evan/desktop/git
+   72  clone https://github.com/Muffinnbasket/muffinnd3setA.git
+   73  git clone https://github.com/Muffinnbasket/muffinnd3setA.git
+   74  cd muffinnd3setA/
+   75  history > history.txt
